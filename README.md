@@ -73,7 +73,7 @@ Empower your cuts with Makute Circular Saws - Where Precision Meets Power!
 # 4. Total Jigsaw - Precision Cutting Redefined! 🔧✨
 
 Experience the precision of Total Jigsaw, a powerful tool for your cutting needs! The 800W model ensures accuracy and efficiency in every cut. ⚙️🔪
-![Total jigsaw](photo_2024-01-03_08-52-23.jpg)
+![Total jigsaw](photo_2024-01-03_08-52-17.jpg)
 
 ## Model and Price:
 
