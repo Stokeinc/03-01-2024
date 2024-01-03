@@ -9,7 +9,7 @@ Experience the performance and versatility of the DeWalt Chargeable Drill 21V, a
 - **Accessories:** Comes with a complete set of accessories for a wide range of applications.
 - **Versatility:** Ideal for drilling, fastening, and more.
 
-![DeWalt Chargeable Drill](images/dewalt_drill_preview.png)
+![DeWalt Chargeable Drill](photo_2024-01-03_08-52-02.jpg)
 
 ## Pricing:
 
@@ -22,6 +22,8 @@ Empower your projects with the DeWalt Chargeable Drill 21V! 🔧💡
 # 2. Ingco Drills - Power, Precision, Performance! 🔧⚙️
 
 Explore the world of drilling with Ingco Drills, designed to provide power and precision for your projects! Whether you need a lightweight option or a high-powered drill, Ingco has you covered. 💪🔩
+
+![Ingco Drill](photo_2024-01-03_08-52-06.jpg)
 
 ## Models and Prices:
 
@@ -52,6 +54,9 @@ Enjoy the convenience of free delivery for your Ingco Drill. 🌐🎁
 # 3. Makute Circular Saws - Cutting Precision Redefined! 🪚✨
 
 Unleash the cutting power with Makute Circular Saws, designed for precision and performance in every cut! Whether you choose the 1380W 185mm model or the powerful 2200W 235mm version, Makute has the saw for your projects. ⚙️🔪
+![Makute Circular saws](photo_2024-01-03_08-52-09.jpg)
+![Makute Circular saws](photo_2024-01-03_08-52-12.jpg)
+
 
 ## Models and Prices:
 
@@ -68,6 +73,7 @@ Empower your cuts with Makute Circular Saws - Where Precision Meets Power!
 # 4. Total Jigsaw - Precision Cutting Redefined! 🔧✨
 
 Experience the precision of Total Jigsaw, a powerful tool for your cutting needs! The 800W model ensures accuracy and efficiency in every cut. ⚙️🔪
+![Total jigsaw](photo_2024-01-03_08-52-23.jpg)
 
 ## Model and Price:
 
